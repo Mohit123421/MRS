@@ -1,2 +1,2 @@
-# MRS
-Movie-Recommender-System
+# MovieMentor
+ Movie-Recommender-System
